@@ -1,1 +1,1 @@
-# Js101_Learning_Javascript1
+Day 1
